@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table, th, td{
+    border: 0.5px solid black;
+    text-align: center;
+    width: 800px;
+  }
+th{
+    background-color: rgb(212, 212, 212);
+}
+.weight{
+    background-color: rgb(212, 212, 212);
+    font-weight: 700;
+}
+
+.normal{
+    height: 40px;
+}
+table{
+    background-color: black;
+}
+.humanas{
+    background-color: rgb(202, 148, 216);
+}
+.soc{
+    background-color: rgb(255, 211, 129);
+}
+.fisica{
+    background-color: rgb(181, 181, 255);
+}
+.pv{
+    background-color: cornflowerblue;
+}
+.tecnico{
+    background-color: rgb(203, 245, 107);
+}
+.matematica{
+    background-color: rgb(216, 84, 84);
+}
+.prof{
+    display: block;
+    float: left;
+    height: 15px;
+    width: 100%;
+    margin-top: 10px;
+}
+.materia{
+    display: block;
+    float: left;
+    height: 10px;
+    width: 100%;
+}
